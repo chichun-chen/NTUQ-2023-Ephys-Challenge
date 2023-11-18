@@ -15,8 +15,8 @@ We then utilize the idea of quantum pooling layer[2] to further reduce the quant
 
 
 ## Data pre-processing
-Resize -> 256*256 <br />
-Center -> 224*224 <br />
+Resize -> 256x256 <br />
+Center -> 224x224 <br />
 Normalize to std. (0.485, 0.456, 0.406), (0.229, 0.224, 0.225)
 
 ## Environment & Package
