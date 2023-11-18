@@ -20,12 +20,12 @@ Center -> 224*224 <br />
 Normalize to std. (0.485, 0.456, 0.406), (0.229, 0.224, 0.225)
 
 ## Environment & Package
-Notebook: Google CoLab
-python 3.10
-pennylane==0.28
+Notebook: Google CoLab<br />
+python 3.10<br />
+pennylane==0.28<br />
 Pre-trained model: torchvision.models.resnet18
 
 
 ## Reference
-[1]Mari, A., Bromley, T. R., Izaac, J., Schuld, M., & Killoran, N. (2020). Transfer learning in hybrid classical-quantum neural networks. Quantum, 4, 340.
-[2]Cong, I., Choi, S., & Lukin, M. D. (2019). Quantum convolutional neural networks. Nature Physics, 15(12), 1273-1278.
+[1]Mari, A., Bromley, T. R., Izaac, J., Schuld, M., & Killoran, N. (2020). Transfer learning in hybrid classical-quantum neural networks. Quantum, 4, 340.<br />
+[2]Cong, I., Choi, S., & Lukin, M. D. (2019). Quantum convolutional neural networks. Nature Physics, 15(12), 1273-1278.<br />
